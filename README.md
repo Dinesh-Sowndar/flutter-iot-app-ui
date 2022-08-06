@@ -1,16 +1,6 @@
-# newone
+# Flutter IoT App UI Challenge
 
-A new Flutter project.
+UI Reference : https://dribbble.com/shots/14180391-Smart-Home
 
-## Getting Started
+https://user-images.githubusercontent.com/29474697/183251229-9b7e316c-a2d2-4268-a095-8df5649c038b.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
